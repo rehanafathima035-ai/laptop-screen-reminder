@@ -4,7 +4,7 @@ A lightweight Windows desktop reminder that brings an animation onto your screen
 
 ## 🎬 Demo
 
-![Water Reminder Demo](water_reminder.gif)
+![Water Reminder Demo](walk_animation_source.gif)
 
 An animation walks onto the screen from the **left**, displays the water reminder, and then walks off toward the **right**.
 
@@ -89,7 +89,7 @@ reminder/
 ├── pond.jpg
 ├── settings.json
 ├── walk_animation_source.gif
-├── water_reminder.gif
+├── walk_animation_source.gif
 ├── walk_frames/
 ├── enable-startup.ps1
 ├── README.md
